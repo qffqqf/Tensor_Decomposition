@@ -1,2 +1,2 @@
-# Physics_Informed_Tensor_Decomposition
+# Tensor_Decomposition
 Physics informed tensor decomposition approaches for parametric model order reduction
